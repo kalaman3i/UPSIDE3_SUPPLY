@@ -1,2 +1,1 @@
 wheel==0.45.1
-requests==2.31.0
